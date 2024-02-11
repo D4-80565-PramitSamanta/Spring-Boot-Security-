@@ -1,4 +1,4 @@
-package com.example.RegisterLogin;
+package com.RegisterLogin.Entity;
 
 import jakarta.annotation.Generated;
 import jakarta.persistence.Column;

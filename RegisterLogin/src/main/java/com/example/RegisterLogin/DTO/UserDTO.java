@@ -1,4 +1,4 @@
-package com.example.RegisterLogin;
+package com.RegisterLogin.DTO;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.GeneratedValue;
